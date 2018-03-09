@@ -16,3 +16,4 @@ Update to latest migration
 - CI setup?
 - Unit tests
 - Basic seeding
+- Clean up db access
