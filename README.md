@@ -1,7 +1,7 @@
 ![alt text](https://github.com/tgilgil/dotnetcore-postgres-docker-boilerplate/blob/master/tech.png ".NET Core + Docker + Postgres")
 
 # dotnetcore-postgresql-docker-boilerplate
-💠 .NET Core project built on top of Docker with Entity Framework (with PostgreSQL instead of MSSQL) boilerplate. Ready to launch. Ready to deploy on Heroku.
+💠 .NET Core project built on top of Docker with Entity Framework (with PostgreSQL instead of MSSQL) boilerplate. Ready to launch. 
 
 # Migrations
 
